@@ -137,3 +137,6 @@ npm script不是没有缺点的，就像我一再强调的，没有最好的工�
 - [Gulp is awesome, but do we really need it?](http://gon.to/2015/02/26/gulp-is-awesome-but-do-we-really-need-it/)
 - [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 
+## 第二周任务
+
+根据你对npm script的使用情况和了解， 通过阅读各类介绍和使用的博客， 和大家推荐好用的node modules。更新在本repo的wiki中。
