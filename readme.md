@@ -72,8 +72,6 @@ npm install --save-dev node-sass
 "version": "1.0.0",
 "description": "An example of how to use npm scripts",
 "main": "index.js",
-"author": "Shunzhe Yu",
-"license": "MIT",
 "devDependencies": {
 "browserify": "^6.3.2",
 "hashmark": "^2.0.0",
