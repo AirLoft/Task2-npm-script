@@ -132,6 +132,7 @@ npm script不是没有缺点的，就像我一再强调的，没有最好的工�
 ## 参考链接
 
 - [原文链接](http://chocoluffy.com/2016/05/15/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%BA%93-%E7%AC%AC%E4%B8%80%E6%9C%9F-npm-script/)
+- [用npm搭配脚本执行](https://www.zybuluo.com/yangfch3/note/249328) npm 不仅可以用于模块管理，还可以用于执行脚本。对于多个任务的操作很方便！
 - [Gulp is awesome, but do we really need it?](http://gon.to/2015/02/26/gulp-is-awesome-but-do-we-really-need-it/)
 - [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 
